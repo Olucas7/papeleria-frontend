@@ -1,0 +1,18 @@
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+  
+  .cart-item-info h3 {
+    font-size: 1.2rem;
+    margin: 5px 0;
+}
+  
+  .remove-btn {
+    background-color: #ff6347;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
